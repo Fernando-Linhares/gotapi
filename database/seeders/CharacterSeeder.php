@@ -13,8 +13,8 @@ class CharacterSeeder extends Seeder
      */
     public function run(): void
     {
-        // $amount = Character::factory()->countRegisters();
+        $amount = Character::factory()->countRegisters();
 
-        Character::factory(20)->create();
+        Character::factory($amount)->create();
     }
 }

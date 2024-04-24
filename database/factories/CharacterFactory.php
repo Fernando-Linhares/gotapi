@@ -50,15 +50,15 @@ class CharacterFactory extends Factory
             ['name' => 'Joffrey Baratheon', 'description' => 'The sadistic and cruel king of the Seven Kingdoms, believed to be the eldest son of Robert Baratheon and Cersei Lannister.', 'house_id' => 4],
             ['name' => 'Stannis Baratheon', 'description' => 'The younger brother of King Robert Baratheon, who claims the Iron Throne after Robert\'s death.', 'house_id' => 4],
             ['name' => 'Margaery Tyrell', 'description' => 'The beautiful and cunning queen of the Seven Kingdoms, who marries both Renly Baratheon and Joffrey Baratheon.', 'house_id' => 6],
-            ['name' => 'Ramsay Bolton', 'description' => 'The sadistic and brutal ruler of Winterfell, who flays his enemies and torments Theon Greyjoy.', 'house_id' => 11],
+            ['name' => 'Ramsay Bolton', 'description' => 'The sadistic and brutal ruler of Winterfell, who flays his enemies and torments Theon Greyjoy.', 'house_id' => 10],
             ['name' => 'Eddard Stark', 'description' => 'The honorable lord of Winterfell and Warden of the North, who uncovers the truth about the parentage of Joffrey Baratheon and his siblings.', 'house_id' => 1],
             ['name' => 'Robert Baratheon', 'description' => 'The king of the Seven Kingdoms at the start of the series, known for his prowess in battle and his love of wine and women.', 'house_id' => 4],
             ['name' => 'Catelyn Stark', 'description' => 'The wife of Eddard Stark and mother of Robb, Sansa, Arya, Bran, and Rickon Stark.', 'house_id' => 1],
             ['name' => 'Khal Drogo', 'description' => 'The leader of a Dothraki khalasar, who marries Daenerys Targaryen.', 'house_id' => null],
             ['name' => 'Theon Greyjoy', 'description' => 'The youngest son of Balon Greyjoy, who is taken as a ward by Eddard Stark and later returns to the Iron Islands.', 'house_id' => 5],
-            ['name' => 'Samwell Tarly', 'description' => 'A member of the Night\'s Watch, known for his intelligence and bravery.', 'house_id' => 8],
+            ['name' => 'Samwell Tarly', 'description' => 'A member of the Night\'s Watch, known for his intelligence and bravery.', 'house_id' => 13],
             ['name' => 'Jorah Mormont', 'description' => 'A knight exiled from Westeros, who serves as an advisor and protector to Daenerys Targaryen.', 'house_id' => 12],
-            ['name' => 'Brienne of Tarth', 'description' => 'A skilled warrior and knight, who is loyal to the Starks and later becomes a sworn sword to Sansa Stark.', 'house_id' => null],
+            ['name' => 'Brienne of Tarth', 'description' => 'A skilled warrior and knight, who is loyal to the Starks and later becomes a sworn sword to Sansa Stark.', 'house_id' => 17],
             ['name' => 'Sandor Clegane', 'description' => 'A fearsome warrior known as the Hound, who serves various masters throughout the series.', 'house_id' => 14],
         ];
     }

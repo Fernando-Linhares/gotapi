@@ -15,6 +15,6 @@ class LocaleSeeder extends Seeder
     {
         $amount = Locale::factory()->countRegisters();
 
-        Locale::factory(20)->create();
+        Locale::factory($amount)->create();
     }
 }
